@@ -1,0 +1,10 @@
+D:\AbdurahmanovAlik\УчебнаяПрактика0.1\RefactoringLabWinForms\RefactoringLabWinForms\bin\Debug\RefactoringLabWinForms.exe.config
+D:\AbdurahmanovAlik\УчебнаяПрактика0.1\RefactoringLabWinForms\RefactoringLabWinForms\bin\Debug\RefactoringLabWinForms.exe
+D:\AbdurahmanovAlik\УчебнаяПрактика0.1\RefactoringLabWinForms\RefactoringLabWinForms\bin\Debug\RefactoringLabWinForms.pdb
+D:\AbdurahmanovAlik\УчебнаяПрактика0.1\RefactoringLabWinForms\RefactoringLabWinForms\obj\Debug\RefactoringLabWinForms.csproj.AssemblyReference.cache
+D:\AbdurahmanovAlik\УчебнаяПрактика0.1\RefactoringLabWinForms\RefactoringLabWinForms\obj\Debug\RefactoringLabWinForms.Properties.Resources.resources
+D:\AbdurahmanovAlik\УчебнаяПрактика0.1\RefactoringLabWinForms\RefactoringLabWinForms\obj\Debug\RefactoringLabWinForms.csproj.GenerateResource.cache
+D:\AbdurahmanovAlik\УчебнаяПрактика0.1\RefactoringLabWinForms\RefactoringLabWinForms\obj\Debug\RefactoringLabWinForms.csproj.CoreCompileInputs.cache
+D:\AbdurahmanovAlik\УчебнаяПрактика0.1\RefactoringLabWinForms\RefactoringLabWinForms\obj\Debug\RefactoringLabWinForms.exe
+D:\AbdurahmanovAlik\УчебнаяПрактика0.1\RefactoringLabWinForms\RefactoringLabWinForms\obj\Debug\RefactoringLabWinForms.pdb
+D:\AbdurahmanovAlik\УчебнаяПрактика0.1\RefactoringLabWinForms\RefactoringLabWinForms\obj\Debug\RefactoringLabWinForms.MainForm.resources

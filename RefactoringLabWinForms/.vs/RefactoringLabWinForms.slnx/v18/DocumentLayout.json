@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11C520FC-6D92-4A1A-9F9B-BB9F3FCDCD1D}|RefactoringLabWinForms\\RefactoringLabWinForms.csproj|d:\\abdurahmanovalik\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\refactoringlabwinforms\\refactoringlabwinforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C520FC-6D92-4A1A-9F9B-BB9F3FCDCD1D}|RefactoringLabWinForms\\RefactoringLabWinForms.csproj|solutionrelative:refactoringlabwinforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C520FC-6D92-4A1A-9F9B-BB9F3FCDCD1D}|RefactoringLabWinForms\\RefactoringLabWinForms.csproj|D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\refactoringlabwinforms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C520FC-6D92-4A1A-9F9B-BB9F3FCDCD1D}|RefactoringLabWinForms\\RefactoringLabWinForms.csproj|solutionrelative:refactoringlabwinforms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C520FC-6D92-4A1A-9F9B-BB9F3FCDCD1D}|RefactoringLabWinForms\\RefactoringLabWinForms.csproj|D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\refactoringlabwinforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11C520FC-6D92-4A1A-9F9B-BB9F3FCDCD1D}|RefactoringLabWinForms\\RefactoringLabWinForms.csproj|solutionrelative:refactoringlabwinforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C520FC-6D92-4A1A-9F9B-BB9F3FCDCD1D}|RefactoringLabWinForms\\RefactoringLabWinForms.csproj|D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\refactoringlabwinforms\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C520FC-6D92-4A1A-9F9B-BB9F3FCDCD1D}|RefactoringLabWinForms\\RefactoringLabWinForms.csproj|solutionrelative:refactoringlabwinforms\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C520FC-6D92-4A1A-9F9B-BB9F3FCDCD1D}|RefactoringLabWinForms\\RefactoringLabWinForms.csproj|D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\refactoringlabwinforms\\service\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C520FC-6D92-4A1A-9F9B-BB9F3FCDCD1D}|RefactoringLabWinForms\\RefactoringLabWinForms.csproj|solutionrelative:refactoringlabwinforms\\service\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C520FC-6D92-4A1A-9F9B-BB9F3FCDCD1D}|RefactoringLabWinForms\\RefactoringLabWinForms.csproj|D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\refactoringlabwinforms\\service\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C520FC-6D92-4A1A-9F9B-BB9F3FCDCD1D}|RefactoringLabWinForms\\RefactoringLabWinForms.csproj|solutionrelative:refactoringlabwinforms\\service\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11C520FC-6D92-4A1A-9F9B-BB9F3FCDCD1D}|RefactoringLabWinForms\\RefactoringLabWinForms.csproj|D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\refactoringlabwinforms\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C520FC-6D92-4A1A-9F9B-BB9F3FCDCD1D}|RefactoringLabWinForms\\RefactoringLabWinForms.csproj|solutionrelative:refactoringlabwinforms\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\RefactoringLabWinForms\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "RefactoringLabWinForms\\Service\\EmployeeService.cs",
+              "ToolTip": "D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\RefactoringLabWinForms\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "RefactoringLabWinForms\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:36:20.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\RefactoringLabWinForms\\Service\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "RefactoringLabWinForms\\Service\\EmployeeRepository.cs",
+              "ToolTip": "D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\RefactoringLabWinForms\\Service\\EmployeeRepository.cs",
+              "RelativeToolTip": "RefactoringLabWinForms\\Service\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:33:45.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\RefactoringLabWinForms\\Service\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "RefactoringLabWinForms\\Service\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\RefactoringLabWinForms\\Service\\IEmployeeRepository.cs",
+              "RelativeToolTip": "RefactoringLabWinForms\\Service\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:32:47.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\RefactoringLabWinForms\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "RefactoringLabWinForms\\Models\\Employee.cs",
+              "ToolTip": "D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\RefactoringLabWinForms\\Models\\Employee.cs",
+              "RelativeToolTip": "RefactoringLabWinForms\\Models\\Employee.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:10:48.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\RefactoringLabWinForms\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "RefactoringLabWinForms\\MainForm.Designer.cs",
+              "ToolTip": "D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\RefactoringLabWinForms\\MainForm.Designer.cs",
+              "RelativeToolTip": "RefactoringLabWinForms\\MainForm.Designer.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAkwNwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:01:02.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\RefactoringLabWinForms\\MainForm.cs",
+              "RelativeDocumentMoniker": "RefactoringLabWinForms\\MainForm.cs",
+              "ToolTip": "D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\RefactoringLabWinForms\\MainForm.cs",
+              "RelativeToolTip": "RefactoringLabWinForms\\MainForm.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAuwJoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:00:53.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\RefactoringLabWinForms\\MainForm.cs",
+              "RelativeDocumentMoniker": "RefactoringLabWinForms\\MainForm.cs",
+              "ToolTip": "D:\\AbdurahmanovAlik\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u04300.1\\RefactoringLabWinForms\\RefactoringLabWinForms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "RefactoringLabWinForms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:56:32.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
